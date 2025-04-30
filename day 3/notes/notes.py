@@ -27,8 +27,8 @@ print(myName)
 
 
 name = input("სალამი შეიყვანე შენი სახელი: ")
-age = int (input("შეიყვანე შენი ასაკი: "))
-age2 = int (input("შეიყვანე მეგობრის სახელი: "))
+age = int(input("შეიყვანე შენი ასაკი: "))
+age2 = int(input("შეიყვანე მეგობრის ასაკი: "))
 
 print(name)
 print(age)
