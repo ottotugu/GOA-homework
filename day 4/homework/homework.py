@@ -22,12 +22,13 @@ print(True and 6<7 or "hello" != 5.4 and False or 7-7 < 9+2)
 # integer-ით და string-ით გამოიყენება მხოლოდ != 
 # string-ით და string-ით გამოიყენება == და !=
 
-print(False and False)
-print(False and True)
-print(True and False)
-print(True and True)
+print(False and False) #false
+print(False and True) #false
+print(True and False) #false
+print(True and True) #true
 
-print(True or False)
-print(True or True)
-print(False or True)
-print(False or False)
+print(True or False) #true
+print(True or True) #true
+print(False or True) #true
+print(False or False) # false
+
