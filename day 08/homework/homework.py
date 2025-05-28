@@ -6,6 +6,8 @@ for i in range(5):
 
 #Flowchart --> ალგორითმის ნახატად წარმოდგენა
 
+#pseudocode --> ჩვეულებრივი სასაუბრო ენით გადმოსახული ალგორითი
+
 for i in range(10):
     print("Khinkali")
 
