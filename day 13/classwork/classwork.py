@@ -24,15 +24,15 @@ while dd >= 1:
 
 kk = int(input("enter number: "))
 for i in range(kk):
-     print(kk)
-     kk = kk - 1
+    print(kk)
+    kk = kk - 1
 
     
 for i in range(2, 50 ,2):
-     print(i)
+    print(i)
 
 for i in range(2, 100 ,2):
-     print(i)
+    print(i)
 
 for i in range(10):
-     print("გოა ტოპ")
+    print("გოა ტოპ")
