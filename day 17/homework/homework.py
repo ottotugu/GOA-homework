@@ -9,5 +9,5 @@ ioanes_tolmebi = ["ისხვის ტოლმა(ფავ)",
                   "ღორის ხორცის ტოლმა",
                   "საქონლის ხორცის ტოლმა"
                   ]
-print(ioanes_tolmebi[4])
-print(ioanes_tolmebi[2])
+
+print(ioanes_tolmebi[4] + ioanes_tolmebi[2])
