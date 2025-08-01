@@ -1,15 +1,15 @@
 
-number = int(input("enter 1 number: "))
-number1 = int(input("enter 1 more number: "))
-number2 = int(input("enter 1 more: "))
-added = number + number2 + number2
-print(added)
+# number = int(input("enter 1 number: "))
+# number1 = int(input("enter 1 more number: "))
+# number2 = int(input("enter 1 more: "))
+# added = number + number2 + number2
+# print(added)
 
-i = 10
+# i = 10
 
-while i >= 1:
-    print(i)
-    i = i - 1
+# while i >= 1:
+#     print(i)
+#     i = i - 1
 
 ik = 0 
 for i in range(1, 101,):
